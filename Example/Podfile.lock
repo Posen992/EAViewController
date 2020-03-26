@@ -1,0 +1,16 @@
+PODS:
+  - EAViewController (0.1.0)
+
+DEPENDENCIES:
+  - EAViewController (from `../`)
+
+EXTERNAL SOURCES:
+  EAViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EAViewController: 0cf8b262620091c53f3083a35909d15f061bc0e6
+
+PODFILE CHECKSUM: cddf829ed66ed1e045eeaad663ae3932e1d4fbd8
+
+COCOAPODS: 1.8.4
