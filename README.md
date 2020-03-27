@@ -22,7 +22,7 @@ pod 'EAViewController'
 
 ## Author
 
-chencode992@163.com, shuaochen@faceunity.com
+chen.Posen992@gmail.com
 
 ## License
 

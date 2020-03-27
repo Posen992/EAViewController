@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/chencode992@163.com/EAViewController'
+  s.homepage         = 'https://github.com/Posen992/EAViewController'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Posen992' => 'chen.Posen992@gmail.com' }
   s.source           = { :git => 'https://github.com/Posen992/EAViewController.git', :tag => s.version.to_s }
