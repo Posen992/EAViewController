@@ -1,6 +1,0 @@
-framework module EAViewController {
-  umbrella header "EAViewController-umbrella.h"
-
-  export *
-  module * { export * }
-}

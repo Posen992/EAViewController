@@ -1,6 +1,0 @@
-use_frameworks!
-target 'EAViewController_Tests' do
-  pod 'EAViewController', :path => '../'
-  
-  
-end
